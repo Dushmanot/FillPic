@@ -1,2 +1,1 @@
-# FillPic
-Windows Forms C# game
+# FillPicc
